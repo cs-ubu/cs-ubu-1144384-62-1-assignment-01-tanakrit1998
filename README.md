@@ -8,3 +8,4 @@ Assignment:
 
 * เขียนโปรแกรม CLI เพื่อแปลงเงินบาทเป็นมูลค่าเงินในสกุลต่างๆ โดยใช้อัตราแลกเปลี่ยนจาก `https://api.exchangeratesapi.io/latest`
 
+https://wichit2s.gitlab.io/nodejs/Week04/
